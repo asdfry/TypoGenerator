@@ -19,6 +19,8 @@ print(typo.convert("누가 내 치즈를 옮겼을까? - Spencer Johnson", k=3))
 print(typo.convert("누가 내 치즈를 옮겼을까? - Spencer Johnson", k=5))  # convert 5 character
 ```
 ## Result
-> 누가 내 치즈를 옮겼을까 **/** - Spencer Johnson  
-> 누가 내 **티**즈를 옮겼을까? - **s**pencer Johnso**m**  
-> 누**기** 내 **차**즈를 옮겼을까? **_** Spenc**E**r Johh**d**on  
+<pre>
+누가 내 치즈를 옮겼을까<b>/</b> - Spencer Johnson  
+누가 내 <b>티</b>즈를 옮겼을까? - <b>s</b>pencer Johnso<b>m</b>  
+누<b>기</b> 내 <b>차</b>즈를 옮겼을까? <b>_</b> Spenc<b>E</b>r Johh<b>d</b>on  
+</pre>
