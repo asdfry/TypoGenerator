@@ -1,5 +1,6 @@
 # Requirements
 * jamotools == 0.1.10 (https://github.com/HaebinShin/jamotools)
+* PyYAML == 6.0
 <br></br>
 
 # Type Of Typo
